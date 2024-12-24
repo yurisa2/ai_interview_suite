@@ -1,0 +1,4 @@
+*.webm
+.venv
+.ds*
+*.pyc
