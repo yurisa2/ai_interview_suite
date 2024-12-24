@@ -2,3 +2,4 @@
 .venv
 .ds*
 *.pyc
+.env
